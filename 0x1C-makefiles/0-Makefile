@@ -1,0 +1,2 @@
+all: main.c Godphynix.c
+	gcc main.c Godphynix.c -o Godphynix
